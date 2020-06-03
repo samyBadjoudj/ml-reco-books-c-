@@ -1,6 +1,6 @@
 # Ml-Reco-Books 
 
-Here are peace of code, that recommends us some books according to their categories.
+Here is a piece of code, that recommends us some books according to their categories.
 
 Domain is composed of
 - Set all books
