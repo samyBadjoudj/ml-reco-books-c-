@@ -35,14 +35,14 @@ There are many ways to compute distances here are some:
 ## Feature elimination
 
 When we deal with high dimensional data, we want to reduce that dimensionality without
-loosing too much information and keeping the important one.  
+loosing too much information and keeping the important ones.  
 
 The first step is by knowing well the problem we want to solve.  
-Asking the question "is that feature meaningful to characterize by data ?"  
+Asking the question "is that feature meaningful to characterize our data ?"  
 
 To select or remove feature we can observe correlation between features, chi squared test... there plenty you can find online.
 
-In our first case by choice, in order to plot it we will keep only the ones with high variances. We could have done PCA but I wanted only to derive it.
+In our first case, by choice, in order to plot it we will keep only the ones with high variances. We could have done PCA but I wanted only to derive it.
 
 The second case we will see with PCA how we can maximize the information during a dimension reduction.
 
