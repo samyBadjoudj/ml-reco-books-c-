@@ -93,6 +93,10 @@ To maximize a multivariate equation with constraint (here ||v|| = 1, unitary vec
  
  With few lines of code, Python package sklearn can do all that for us :).
  
+ Plus you can have a look at this gradient descent 
+ [Gradient descent earth-sun orbital system](https://samybadjoudj.github.io/)
+
+ 
  Samy Badjoudj
  
  
